@@ -1,0 +1,132 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4281357 */
+  src: url('iconfont.woff2?t=1719475239085') format('woff2'),
+       url('iconfont.woff?t=1719475239085') format('woff'),
+       url('iconfont.ttf?t=1719475239085') format('truetype'),
+       url('iconfont.svg?t=1719475239085#iconfont') format('svg');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-uninstall:before {
+  content: "\e612";
+}
+
+.icon-copy:before {
+  content: "\e613";
+}
+
+.icon-lock:before {
+  content: "\e610";
+}
+
+.icon-disable:before {
+  content: "\e614";
+}
+
+.icon-enable:before {
+  content: "\e615";
+}
+
+.icon-retry:before {
+  content: "\e651";
+}
+
+.icon-allot:before {
+  content: "\e64d";
+}
+
+.icon-upgrade:before {
+  content: "\e64e";
+}
+
+.icon-free:before {
+  content: "\e64f";
+}
+
+.icon-install:before {
+  content: "\e650";
+}
+
+.icon-recover:before {
+  content: "\e64c";
+}
+
+.icon-recycle:before {
+  content: "\e60f";
+}
+
+.icon-delete:before {
+  content: "\e60d";
+}
+
+.icon-restore:before {
+  content: "\e60e";
+}
+
+.icon-clear:before {
+  content: "\e611";
+}
+
+.icon-shimingrenzheng_hover:before {
+  content: "\e63f";
+}
+
+.icon-daichulituikuan_hover:before {
+  content: "\e640";
+}
+
+.icon-daichuligongdan_hover:before {
+  content: "\e641";
+}
+
+.icon-kaitongzhongchanpinshuliang_hover:before {
+  content: "\e642";
+}
+
+.icon-daichulifapiao_hover:before {
+  content: "\e643";
+}
+
+.icon-daiquerentuijie_hover:before {
+  content: "\e644";
+}
+
+.icon-daichulitixian_hover:before {
+  content: "\e645";
+}
+
+.icon-daichuligongdan:before {
+  content: "\e63c";
+}
+
+.icon-shimingrenzheng:before {
+  content: "\e638";
+}
+
+.icon-kaitongzhongchanpinshu:before {
+  content: "\e639";
+}
+
+.icon-daichulituikuan:before {
+  content: "\e63a";
+}
+
+.icon-daichulitixian:before {
+  content: "\e63b";
+}
+
+.icon-daiquerentuijie:before {
+  content: "\e63d";
+}
+
+.icon-daichulifapiao:before {
+  content: "\e63e";
+}
+
